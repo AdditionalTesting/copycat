@@ -65,3 +65,27 @@ img {
 .call-to-action p {
   font-size: 20px;
 }
+
+.products {
+ margin:0 auto;
+ width: 90%;
+ background-color: lightgrey;
+ padding: 20px;
+ font-size: 20px;
+}
+
+.products ul li img {
+  width: 30%;
+  height: 30%;
+  border: 3px solid black;
+  margin-bottom: 10px;
+}
+
+.product-wrapper {
+  list-style-type: none;
+}
+
+.product-item {
+  display: inline;
+  margin: 8px;
+}
