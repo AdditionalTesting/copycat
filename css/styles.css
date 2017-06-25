@@ -35,8 +35,11 @@ img {
 }
 
 .hero {
-  display: inline-block;
+  display: inline-block ;
   background-color: #26547C;
+  margin: 0 auto;
+  width: 90%;
+  margin-left: 5%;
 }
 
 .hero-image {
@@ -49,4 +52,16 @@ img {
   margin-left: 5px;
   text-align: center;
   color: white;
+}
+
+.call-to-action {
+  background-color: #FFD166;
+  padding: 20px;
+  margin: 0 auto;
+  width: 90%;
+
+}
+
+.call-to-action p {
+  font-size: 20px;
 }
