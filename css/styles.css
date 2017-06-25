@@ -43,3 +43,10 @@ img {
   float: left;
   width: 60%
 }
+
+.hero-content > h2 {
+  font-size: 40px;
+  margin-left: 5px;
+  text-align: center;
+  color: white;
+}
